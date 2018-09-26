@@ -11,3 +11,7 @@ echo "hello"
 
 
 echo "$variable"
+**bold**
+Subheading
+**bold*
+*italic*
